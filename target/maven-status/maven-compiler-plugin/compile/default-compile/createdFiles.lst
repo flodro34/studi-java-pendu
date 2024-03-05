@@ -1,0 +1,7 @@
+fr\studi\pojo\Score.class
+fr\studi\App.class
+fr\studi\dao\ScoreDAO.class
+fr\studi\controller\ConfigPendu.class
+fr\studi\controller\JeuPendu.class
+fr\studi\dao\impl\ScoreDAOImpl.class
+fr\studi\game\Pendu.class
